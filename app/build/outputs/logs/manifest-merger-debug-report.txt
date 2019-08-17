@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c4dcf10bd4e09632f0a24bd76e788093\AndroidManifest.xml:2:1-10:12
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e6f1471f012f5b1ce973e310017e892b\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\0f9a3100551cbd257add7b38ef48b141\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\31360a6efee696caad4ac0794fb98df4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\478ecd681244c476e5b9d90d5d62aada\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\14f306e2c323f70abc697cef784b6217\AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4554b635f12391baaa8c136287304ba0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\f968537088aa0dc8bf9f53904e2c68a7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\78f46bddc772ae01a93e10457bd130ba\AndroidManifest.xml:17:1-28:12
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5fb4c028f485800b8b6db8c420ea2502\AndroidManifest.xml:2:1-14:12
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c0e331a27a01deb66eb2fe6ad9871373\AndroidManifest.xml:18:1-25:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\3395ec3be230e76b2df93baf99d24b66\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5599c0e10498ee00bb30fade2c33c3fe\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\669faecd7c29b1007bf3395a70628ef4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4c19fdf9fbb6d21ee05a7c01c3c0bdde\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\9e09cfd9e046274c64b7eaa33c68ae4b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c5dc79aabfd0569bafaf0c065c8b252f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e2035a49061f50f2303458f610ff6184\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:4:5-51
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e6f1471f012f5b1ce973e310017e892b\AndroidManifest.xml:11:5-17:19
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e6f1471f012f5b1ce973e310017e892b\AndroidManifest.xml:11:5-17:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\0f9a3100551cbd257add7b38ef48b141\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\0f9a3100551cbd257add7b38ef48b141\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\31360a6efee696caad4ac0794fb98df4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\31360a6efee696caad4ac0794fb98df4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\478ecd681244c476e5b9d90d5d62aada\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\478ecd681244c476e5b9d90d5d62aada\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\14f306e2c323f70abc697cef784b6217\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\14f306e2c323f70abc697cef784b6217\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\f968537088aa0dc8bf9f53904e2c68a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\f968537088aa0dc8bf9f53904e2c68a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\78f46bddc772ae01a93e10457bd130ba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\78f46bddc772ae01a93e10457bd130ba\AndroidManifest.xml:22:5-26:19
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5fb4c028f485800b8b6db8c420ea2502\AndroidManifest.xml:12:5-20
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5fb4c028f485800b8b6db8c420ea2502\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\3395ec3be230e76b2df93baf99d24b66\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\3395ec3be230e76b2df93baf99d24b66\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5599c0e10498ee00bb30fade2c33c3fe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5599c0e10498ee00bb30fade2c33c3fe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\669faecd7c29b1007bf3395a70628ef4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\669faecd7c29b1007bf3395a70628ef4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4c19fdf9fbb6d21ee05a7c01c3c0bdde\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4c19fdf9fbb6d21ee05a7c01c3c0bdde\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\9e09cfd9e046274c64b7eaa33c68ae4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\9e09cfd9e046274c64b7eaa33c68ae4b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c5dc79aabfd0569bafaf0c065c8b252f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c5dc79aabfd0569bafaf0c065c8b252f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e2035a49061f50f2303458f610ff6184\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e2035a49061f50f2303458f610ff6184\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.develop.appquanlichitieu.MainActivity
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.develop.appquanlichitieu.KhoangThuChiTietActivity
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:21:9-62
+	android:name
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:21:19-59
+activity#com.example.develop.appquanlichitieu.ThisWeekActivity
+ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:22:9-63
+	android:name
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml:22:19-51
+uses-sdk
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:21:5-23:62
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c4dcf10bd4e09632f0a24bd76e788093\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c4dcf10bd4e09632f0a24bd76e788093\AndroidManifest.xml:6:5-8:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e6f1471f012f5b1ce973e310017e892b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.cepheuen.elegant-number-button:lib:1.0.2] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e6f1471f012f5b1ce973e310017e892b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\0f9a3100551cbd257add7b38ef48b141\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\0f9a3100551cbd257add7b38ef48b141\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\31360a6efee696caad4ac0794fb98df4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\31360a6efee696caad4ac0794fb98df4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\478ecd681244c476e5b9d90d5d62aada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\478ecd681244c476e5b9d90d5d62aada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\14f306e2c323f70abc697cef784b6217\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\14f306e2c323f70abc697cef784b6217\AndroidManifest.xml:21:5-23:54
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4554b635f12391baaa8c136287304ba0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:android-flat-button:v1.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4554b635f12391baaa8c136287304ba0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\f968537088aa0dc8bf9f53904e2c68a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\f968537088aa0dc8bf9f53904e2c68a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\78f46bddc772ae01a93e10457bd130ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\78f46bddc772ae01a93e10457bd130ba\AndroidManifest.xml:20:5-44
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5fb4c028f485800b8b6db8c420ea2502\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5fb4c028f485800b8b6db8c420ea2502\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c0e331a27a01deb66eb2fe6ad9871373\AndroidManifest.xml:21:5-23:41
+MERGED from [com.jaredrummler:material-spinner:1.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c0e331a27a01deb66eb2fe6ad9871373\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\3395ec3be230e76b2df93baf99d24b66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\3395ec3be230e76b2df93baf99d24b66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5599c0e10498ee00bb30fade2c33c3fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5599c0e10498ee00bb30fade2c33c3fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\669faecd7c29b1007bf3395a70628ef4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\669faecd7c29b1007bf3395a70628ef4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4c19fdf9fbb6d21ee05a7c01c3c0bdde\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4c19fdf9fbb6d21ee05a7c01c3c0bdde\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\9e09cfd9e046274c64b7eaa33c68ae4b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\9e09cfd9e046274c64b7eaa33c68ae4b\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c5dc79aabfd0569bafaf0c065c8b252f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c5dc79aabfd0569bafaf0c065c8b252f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e2035a49061f50f2303458f610ff6184\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e2035a49061f50f2303458f610ff6184\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\RICK KID\Desktop\PT14351\AppQuanLiChiTieu\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\0f9a3100551cbd257add7b38ef48b141\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\0f9a3100551cbd257add7b38ef48b141\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\478ecd681244c476e5b9d90d5d62aada\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\478ecd681244c476e5b9d90d5d62aada\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\14f306e2c323f70abc697cef784b6217\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\14f306e2c323f70abc697cef784b6217\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\f968537088aa0dc8bf9f53904e2c68a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\f968537088aa0dc8bf9f53904e2c68a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\78f46bddc772ae01a93e10457bd130ba\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\78f46bddc772ae01a93e10457bd130ba\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\3395ec3be230e76b2df93baf99d24b66\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\3395ec3be230e76b2df93baf99d24b66\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5599c0e10498ee00bb30fade2c33c3fe\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\5599c0e10498ee00bb30fade2c33c3fe\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\669faecd7c29b1007bf3395a70628ef4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\669faecd7c29b1007bf3395a70628ef4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4c19fdf9fbb6d21ee05a7c01c3c0bdde\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\4c19fdf9fbb6d21ee05a7c01c3c0bdde\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\9e09cfd9e046274c64b7eaa33c68ae4b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\9e09cfd9e046274c64b7eaa33c68ae4b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c5dc79aabfd0569bafaf0c065c8b252f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\c5dc79aabfd0569bafaf0c065c8b252f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e2035a49061f50f2303458f610ff6184\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\e2035a49061f50f2303458f610ff6184\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\85acca1bc37e7cc493b55144e3d83fa1\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\RICK KID\.gradle\caches\transforms-2\files-2.1\48ca4dc8e25262dabdb7a3061be32650\AndroidManifest.xml:26:13-58
